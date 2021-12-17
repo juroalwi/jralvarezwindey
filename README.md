@@ -1,4 +1,4 @@
-![alt text](https://github.com/jralvarezwindey/jralvarezwindey/blob/main/SpaceMan.png “add your alt text”)
+![alt text](https://github.com/jralvarezwindey/jralvarezwindey/blob/main/SpaceMan.png)
 
 ### Hi there 👋
 
