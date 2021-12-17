@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src=”SpaceMan.jpg” alt=”banner” width=”200"/>
+<img src=”SpaceMan.png” alt=”banner” width=”200"/>
 
 <!--
 **jralvarezwindey/jralvarezwindey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
