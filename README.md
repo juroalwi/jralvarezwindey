@@ -1,54 +1,19 @@
-![banner](https://github.com/jralvarezwindey/jralvarezwindey/blob/main/banner.jpg)
-## Hi there 👋
-<img src="https://github.com/jralvarezwindey/jralvarezwindey/blob/main/banner.jpg" height="100" />
+<img src="https://github.com/jralvarezwindey/jralvarezwindey/blob/main/banner.jpg" />
 
-I'm a Full Stack Developer and Math student from Argentina 🇦🇷
+### Hi there 👋
 
-&nbsp;
-&nbsp;
+I am Julian Alvarez Windey, a Full Stack Developer from Argentina 🇦🇷. I am currently doing a licenciate's degree in Math at UBA university. I enjoy solving problems and learning new things every day. I am an easy going person, and very detail-oriented when it comes to working in projects. I think it's important to get every detail right, and I always aim to complete my projects in the most flawless possible way.
 
+### 🛠️ My tech skills:
 
-## <p align="center"> Full Stack Developer and Math student from Argentina 🇦🇷 </p>
-
-&nbsp;
-&nbsp;
-
-## Tech Stack 
-
-
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Java],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", "Material UI"]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MongoDB", "PostgreSQL"],
-   },
-   currentOccupation: ["Tech Instructor at Henry"],
-};
-```
-
-#### Languages:
-- JavaScript
 - JavaScript
 - HTML
 - CSS
-
-#### Frontend:
-
 - React
 - Redux
-
-#### Backend:
-
 - Node
 - Express
 - Sequelize
 - PostgreSQL
 
-
+### 📫 Contact me at:
