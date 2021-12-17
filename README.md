@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src=”drawing.jpg” alt=”banner” width=”200"/>
 
 <!--
 **jralvarezwindey/jralvarezwindey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
