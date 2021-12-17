@@ -1,4 +1,7 @@
+![alt text](https://github.com/jralvarezwindey/jralvarezwindey/blob/main/SpaceMan.png “add your alt text”)
+
 ### Hi there 👋
+
 <img src=”SpaceMan.png” alt=”banner” width=”200"/>
 
 <!--
