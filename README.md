@@ -26,8 +26,6 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina 🇦�
 ### [Food App](https://jralvarezwindey-food-app.vercel.app)
 
 [<img src="food-app-main.jpg"/>](https://jralvarezwindey-food-app.vercel.app)
-[<img src="food-app-create-recipe.jpg"/>](https://jralvarezwindey-food-app.vercel.app)
-
 
 ## 📫 Contact
 
