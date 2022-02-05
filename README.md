@@ -7,6 +7,7 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina 🇦�
 ## 🛠️ Tech tools
 
 - JavaScript
+- Solidity
 - HTML
 - CSS
 - React
@@ -16,7 +17,19 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina 🇦�
 - Sequelize
 - PostgreSQL
 
-## 📫 Contact me at
+## :bulb: Recent projects
+
+### [Crypto Wallet App](https://vimeo.com/673809018)
+
+[<img src="crypto-wallet-app-demo-thumbnail.png"/>](https://vimeo.com/673809018)
+
+### [Food App](https://jralvarezwindey-food-app.vercel.app)
+
+[<img src="food-app-main.jpg"/>](https://jralvarezwindey-food-app.vercel.app)
+[<img src="food-app-create-recipe.jpg"/>](https://jralvarezwindey-food-app.vercel.app)
+
+
+## 📫 Contact
 
 [<img src="mail.svg" width="48" />](mailto:jralvarezwindey@gmail.com) &nbsp;&nbsp;
 [<img src="linkedin.svg" width="48" />](https://www.linkedin.com/in/jralvarezwindey) &nbsp;&nbsp;
