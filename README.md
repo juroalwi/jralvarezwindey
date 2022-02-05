@@ -16,6 +16,7 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina ðŸ‡¦ðŸ
 - Express
 - Sequelize
 - PostgreSQL
+- Web3
 
 ## :bulb: Recent projects
 
