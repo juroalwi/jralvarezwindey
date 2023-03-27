@@ -30,6 +30,6 @@ I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina 🇦�
 
 ## 📫 Contact
 
-[<img src="mail.svg" width="48" />](mailto:jralvarezwindey@gmail.com) &nbsp;&nbsp;
+[<img src="mail.svg" width="48" />](https://mail.google.com/mail/?view=cm&fs=1&to=jralvarezwindey@gmail.com) &nbsp;&nbsp;
 [<img src="linkedin.svg" width="48" />](https://www.linkedin.com/in/jralvarezwindey) &nbsp;&nbsp;
 [<img src="whatsapp.svg" width="48" />](https://api.whatsapp.com/send?phone=5491136108552)
