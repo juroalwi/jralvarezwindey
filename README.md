@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina. I am currently doing a licenciate's degree in __Math__ at UBA university. I enjoy solving problems and learning new things every day. I am an easy going person, and when collaborating in projects I always work to achieve the highest possible level of exellence.
+I am __Julian Alvarez Windey__, a __Full Stack Developer__ from Argentina. I am currently doing a licenciate's degree in __Math__ at UBA university. I enjoy solving problems and learning new things every day. I am an easy going person, and when collaborating in projects I always work to the highest possible standard.
 
 ## 🛠️ Tech tools
 
